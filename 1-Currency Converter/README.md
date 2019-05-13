@@ -7,12 +7,12 @@ View objects are usually UI widgets such as buttons or text fields and ViewGroup
 view containers that define how the child views are laid out, such as in a grid or a vertical list. The main 
 goal of this lab is to learn how to build a simple user interface.
 
-##Objectives
+## Objectives
 After completing Lab Assignment 1, you will be able to:
-• Build a simple user interface.
-• Recognize the different types of layouts in Android.
-• Use input controls, such as text fields, spinners and buttons
-• Respond to Click events and use toasts
+* Build a simple user interface.
+* Recognize the different types of layouts in Android.
+* Use input controls, such as text fields, spinners and buttons
+* Respond to Click events and use toasts
 
 ## App Description
 In this lab, you will develop a Currency Rate Converter App (only from USD to EGP and vise versa with a 

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GameActivity"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <com.example.kyrillosnagywadieyas.advlec1.MyImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/think"
+            android:id="@+id/my1"
+            android:scaleType="fitXY"
+            android:layout_weight="1"
+            />
+        <com.example.kyrillosnagywadieyas.advlec1.MyImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/think"
+            android:scaleType="fitXY"
+            android:id="@+id/my2"
+            android:layout_weight="1"
+        />
+
+        <com.example.kyrillosnagywadieyas.advlec1.MyImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/think"
+            android:scaleType="fitXY"
+            android:id="@+id/my3"
+            android:layout_weight="1"
+        />
+        <com.example.kyrillosnagywadieyas.advlec1.MyImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/think"
+            android:id="@+id/my4"
+            android:layout_weight="1"
+        />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <com.example.kyrillosnagywadieyas.advlec1.MyImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/think"
+            android:scaleType="fitXY"
+            android:id="@+id/my5"
+            android:layout_weight="1"
+            />
+        <com.example.kyrillosnagywadieyas.advlec1.MyImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/think"
+            android:id="@+id/my6"
+            android:layout_weight="1"
+            />
+
+        <com.example.kyrillosnagywadieyas.advlec1.MyImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/think"
+            android:scaleType="fitXY"
+            android:id="@+id/my7"
+            android:layout_weight="1"
+            />
+        <com.example.kyrillosnagywadieyas.advlec1.MyImageButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/think"
+            android:scaleType="fitXY"
+            android:id="@+id/my8"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+
+
+
+</LinearLayout>

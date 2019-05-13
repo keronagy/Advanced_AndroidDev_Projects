@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="USD">USD</string>
+    <string name="EGP">EGP</string>
+    <string name="Value">Value</string>
+    <string name="EnterValue">Enter Value</string>
+    <string name="Convert">Convert</string>
+    <string name="Results">Results</string>
+    <string name="CurrencyERROR">Please select different Currencies</string>
+    <string name="EmptyERROR">Please Enter a value to convert</string>
+
+    <string-array name="Currency">
+        <item>USD</item>
+        <item>EGP</item>
+    </string-array>
+
+</resources>

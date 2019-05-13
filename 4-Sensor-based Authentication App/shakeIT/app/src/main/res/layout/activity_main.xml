@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+    <TextView
+        android:background="@color/backGround"
+        android:id="@+id/Pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter"
+        android:textSize="50sp"
+        android:layout_gravity="center"
+        android:textAlignment="center"/>
+    <TextView
+        android:background="@color/backGround"
+        android:id="@+id/Pattern"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="40sp" />
+
+    <TextView
+        android:background="@color/backGround"
+        android:id="@+id/timer"
+        android:text="@string/Time"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="40sp" />
+    <ProgressBar
+        android:id="@+id/progress_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:theme="@style/progressBarBlue"
+        />
+
+    <Button
+        android:id="@+id/ResetBtn"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Reset"
+        android:layout_margin="10dp"/>
+    <Button
+        android:id="@+id/CalibrateBtn"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Calibrate" />
+    <Button
+        android:id="@+id/EnterPass"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enterBtn" />
+    <Button
+        android:id="@+id/WithoutCal"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/withoutCal" />
+</LinearLayout>

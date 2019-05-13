@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Remember</string>
+    <string name="Username">Username</string>
+    <string name="Play">Play</string>
+    <string name="Restart">Restart</string>
+    <string name="Exit">Exit</string>
+    <string name="Scores">Scores</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CalenderEvents</string>
+    <string name="Option">Option</string>
+    <string name="Help">Help</string>
+    <string name="Exit">Exit</string>
+    <string name="AddEvent">Click to add an event</string>
+    <string name="UpcomingEvents">Upcoming Events</string>
+    <string name="PermissionNeeded">Permission Needed</string>
+    <string name="Done">DONE</string>
+    <string name="Cancel">CANCEL</string>
+    <string name="Event">Event</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+    <string name="EventName">Event Name</string>
+</resources>

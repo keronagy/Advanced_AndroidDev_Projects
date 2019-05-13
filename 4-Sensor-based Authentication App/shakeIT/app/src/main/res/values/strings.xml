@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">shakeIT</string>
+    <string name="enter">Enter the password</string>
+    <string name="Reset">Reset</string>
+    <string name="Calibrate">Calibrate</string>
+    <string name="Time">Time</string>
+    <string name="enterBtn">enter pass</string>
+    <string name="withoutCal">Without Calibrating</string>
+</resources>
